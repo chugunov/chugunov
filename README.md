@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Andy :wave:
 
-<!--
-**chugunov/chugunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate software developer who loves exploring new technologies and constantly improving my skills.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :whale: **Docker**, **k8s**  
+- :gear: **Node.js**/**TS**, **Elixir**, **C#**  
+- :snake: **Python**  
+- :sunglasses: **JavaScript**, **React.js**  
+- :mag: **Elasticsearch**, **MongoDb**  
+- :robot: **Ansible**, **CI/CD**  
+- :computer: Backend Development, Frontend Development, DevOps
+
+###### Learning: TypeScript, full-stack web development
+
+## Where to find me
+
+🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/chugunoff/) | [Email](mailto:andrey@chugunov.me)
+
+🚀 Best of luck in your development journey, and let's stay connected!
