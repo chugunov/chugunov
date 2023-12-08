@@ -12,7 +12,7 @@ A passionate software developer who loves exploring new technologies and constan
 - :robot: **Ansible**, **CI/CD**  
 - :computer: Backend Development, Frontend Development, DevOps
 
-###### Learning: TypeScript, full-stack web development
+###### Learning: Go, ML
 
 ## Where to find me
 
