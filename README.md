@@ -5,14 +5,14 @@ A passionate software developer who loves exploring new technologies and constan
 ## Skills
 
 - :whale: **Docker**, **k8s**  
-- :gear: **Node.js**/**TS**, **Elixir**, **C#**  
+- :gear: **Node.js**/**TS**, **Go**, **Elixir**, **C#**  
 - :snake: **Python**  
 - :sunglasses: **JavaScript**, **React.js**  
-- :mag: **Elasticsearch**, **MongoDb**  
+- :mag: **Elasticsearch**, **MongoDb**, **PostgreSQL**  
 - :robot: **Ansible**, **CI/CD**  
 - :computer: Backend Development, Frontend Development, DevOps
 
-###### Learning: Go, ML
+###### Learning: DistrSys, OS, ML
 
 ## Where to find me
 
